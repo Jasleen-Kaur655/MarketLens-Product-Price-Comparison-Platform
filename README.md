@@ -21,8 +21,6 @@ The following diagram represents the architecture and working flow of the projec
 
 ![System Architecture](images/architecture_flowchart.png)
 
-**Flow:**
-
 ---
 
 ## 🧰 Tools, Libraries & Technologies
